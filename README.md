@@ -5,7 +5,7 @@ This is the prework for CodePath IOS Development course
 
 Submitted by: **Khanh Ha Nguyen**
 
-**Name of your app** is an app that show the name, the school, and aspiring occupation of the author, along with random background color [TODO] 
+**IOS Prework* is an app that show the name, the school, and aspiring occupation of the author, along with random background color [TODO] 
 
 Time spent: **4** hours spent in total
 
